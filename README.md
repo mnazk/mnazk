@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mnazk
-- 🌱 I’m currently learning the basics of web development
+- 👋 Hi
 
 
 <!---
